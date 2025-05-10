@@ -1,6 +1,6 @@
 import json
 
-from unitxt.blocks import Set, TaskCard
+from unitxt.blocks import TaskCard
 from unitxt.catalog import add_to_catalog
 from unitxt.loaders import LoadFromDictionary
 from unitxt.test_utils.card import test_card
